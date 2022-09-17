@@ -1,17 +1,17 @@
 .bg-img1{
     background-color: #000;
     background-size: cover;
-    background-image: url(.img/hinh-anh-mat-trang1.jpg);
+    background-image: url(img/hinh-anh-mat-trang1.jpg);
 }
 .bg-img2{
     background-color: #000;
     background-size: cover;
-    background-image: url(.img/hinh-anh-mat-trang-2.jpg);
+    background-image: url(img/hinh-anh-mat-trang-2.jpg);
 }
 .bg-img3{
     background-color: #000;
     background-size: cover;
-    background-image: url(.img/Hinh-anh-Mat-Trang-dep-3.jpg);
+    background-image: url(img/Hinh-anh-Mat-Trang-dep-3.jpg);
 }
 
 .carousel {
