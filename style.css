@@ -1,0 +1,39 @@
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(.img/hinh-anh-mat-trang1.jpg);
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(.img/hinh-anh-mat-trang-2.jpg);
+}
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(.img/Hinh-anh-Mat-Trang-dep-3.jpg);
+}
+
+.carousel {
+    height: 400px;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.carousel-item {
+    height: 100%;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 32px 10px 20px;
+}
+.footer-flex{
+    display: flex;
+}
+
+.footer ul li {
+    display: inline-block;
+}
